@@ -11,4 +11,4 @@ Run `Train.ipynb` to train the model.
 
 `N.B: I only use one fold because the model take too much to train.`
 
-Run `Inference.ipynb` to make predictions on a test dataset.
+Run `Inference.ipynb` to make predictions on the test dataset.
